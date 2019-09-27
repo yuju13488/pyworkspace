@@ -1,0 +1,10 @@
+方法	說明
+append(<item>)	在串列後端加入 <item> 項目
+insert(<position>, <item>)	在 <position> 位置插入 <item> 項目
+pop()	刪除並回覆串列的最後項目
+pop(<position>)	刪除並回覆串列在 <position> 位置的項目
+sort()	排序
+reverse()	反向排序
+index(<item>)	回覆 <item> 項目第一次出現的位置
+count(<item>)	回覆 <item> 項目出現的次數
+remove(<item>)	刪除第一次出現的 <item> 項目
